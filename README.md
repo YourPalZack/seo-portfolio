@@ -39,3 +39,5 @@ Below is the list of projects I have worked on professionally. These include in-
 
 [VacationCompany.com](https://vacationcompany.com) - Worked with a luxury vacation rental company in Hilton Head, SC to optimize their updated website and new booking engine. Used a large budget to build business citations on a monthly basis as well as optimized the Google Business Listing to generate authority in their market. Leveraged review Schema markup that featured reviews and pricing directly in search results, which increased the CTR for the site overall by 7%. 
 
+[Modnet.io] (https://modnet.io/) - Worked as a SEO consultant on a React based web app that is a Modeling talent platform based out of NYC.
+
