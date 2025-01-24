@@ -226,6 +226,6 @@ Below are highlights of my professional SEO experience, including in-house roles
 
 ## Contact
 
-If you have questions about these projects or would like to discuss potential collaborations, feel free to [get in touch](mailto:email@example.com).
+If you have questions about these projects or would like to discuss potential collaborations, feel free to [get in touch](mailto:yourpalzack@gmail.com).
 
 ---
