@@ -1,43 +1,231 @@
+# Portfolio of SEO Projects
+
+Below is an overview of various projects I’ve worked on, divided into two main categories:
+
+1. **Sites I Personally Built, Ranked & Sold**  
+2. **Past "Professional" SEO Projects**
+
+---
+
 ## Sites I Personally Built, Ranked & Sold
 
-Below is a list of the sites I personally founded/created/built myself using SEO as the main source of traffic.
+Here’s a list of sites I personally founded, built from scratch, and grew primarily through SEO.
 
-[(Allcydia.com](https://allcydia.com)- My first website that was successful with SEO. Was built to help people jailbreak their iOS devices using step by step guides as well as reviews of apps available in the Cydia app store. Built the website using Wordpress and ranked for some large keywords which was equal to around 300k Unique Views from organic search engines. I was approached by a 3rd party who offered to purchase the site from me in 2014 for a 6 figure amount and was sold.
+---
 
-[Incredijet.com](https://incredijet.com) - Created a lead gen based website used to generate quote requests for private jet charters across the globe. Used a local SEO strategy featuring the use of structured data to rank for search terms related to airports in cities across the USA. Partnered with a 3rd party charter jet broker to respond to the quote requests generated from the forms on the site and was paid a commission for each flight booked. At its peak, the site was generating around 40k visitors a month and generated 15-20 leads per week. Eventually sold the site to the 3rd party broker who redirected the site to their website.
+### [AllCydia.com](https://allcydia.com)
 
-[Coinformant.com](https://Coinformant.com)- Created a cryptocurrency related website dedicated to listing cryptocurrencies that were below $1 USD trading on exchanges "penny cryptocurrencies". Built the site using Wordpress and custom built a php plugin to feature the listed cryptocurrencies.  Leveraged data from APIs and exchanges to feature coins that were trending by volume as well as information on where/how to purchase the cryptocurrencies. At its peak in 2017-18 the site was averaging about 150k unique visitors from organic search and had advertisers paying a monthly fee to be featured on the site. In 2019 I was approached by an investment company to purchase the site, and I agreed.
+- **Overview:**  
+  My first successful SEO-driven website, aimed at helping users jailbreak their iOS devices. Provided step-by-step guides and reviewed apps from the Cydia App Store.
 
-[AirplaneListings.com](https://AirplaneListings.com) - Purchased the domain as someone let it expire back in 2017. Used the Ionic framework and created my first PWA (Progressive Web App) that listed aircrafts for sale online for free. The site was quickly ranking in organic search as I was able to use older links that were built to the site and redirected them to the active site with content that matched the old site. After 6 months I was emailed by an interested party that purchased the website/domain from me and worked with them to create an SEO strategy. 
+- **Key Achievements:**  
+  - Built on WordPress.  
+  - Ranked for high-volume keywords, peaking at ~300k monthly unique visitors from organic search.  
+  - Sold to a third party in 2014 for a six-figure amount.
 
-[NoiseCuts.com](https://NoiseCuts.com) - Created a digital marketplace for buyers and sellers interested in selling audio, beats, vocals, services and hardware related to music and video production. Used Wordpress and a premium vendor marketplace plugin that featured a full user dashboard, messaging system, and storefront for free. The site generated revenue by letting users feature their listings and store front on the home page as well as specific categories for a monthly fee. At the time of sale the site was generating 25k visitors a month from organic search and had over 7500 users signed up.
+---
 
-[RobinhoodPennies.com](https://Robinhoodpennies.com) - Created a website to go along with a popular subreddit I created in 2017 based on penny stocks available to trade using the Robinhood mobile stock trading app. Listed popular stocks discussed in the subreddit on the website as well as guides on how to purchase the stocks using Robinhood. The site generated 65k+ unique visitors from organic search in the first 12 months, and the subreddit /r/robinhoodpennystocks exploded to 600k subscribers in the first year. Was approached by a large investor and sold the site for a substantial profit.
+### [Incredijet.com](https://incredijet.com)
 
-RoaringForkLocal.com - Built a directory based website for the Roaring Fork Valley in Colorado that featured real estate, classifieds, local business listings, and news from the local area only. Added data from multiple API sources to populate the site and used a local SEO strategy to rank the site and sold it to a local internet marketing agency in 2018.
+- **Overview:**  
+  A lead generation website specializing in private jet charter quotes worldwide.
 
+- **Key Achievements:**  
+  - Focused on local SEO and structured data to rank for airport- and city-specific search terms in the U.S.  
+  - Partnered with a charter jet broker for quotes and earned commissions on booked flights.  
+  - Generated ~40k visitors per month at peak and 15–20 leads per week.  
+  - Eventually sold to the partner broker, who redirected the domain to their primary site.
 
-## Past "Professional"SEO Projects 
+---
 
-Below is the list of projects I have worked on professionally. These include in-house roles, agency clients, and consulting based projects I have been hired for. Keep in mind this is not every single project I have worked on, rather the ones I think are noteworthy.
+### [Coinformant.com](https://coinformant.com)
 
-[Offerpad.com](https://offerpad.com) - Worked as the in-house SEO manager directly under the VP of marketing. Was responsible for the SEO strategy and optimizations for Offerpad's website as well as their custom React application for home listings. At the time the site was 850k+ pages and used Sitecore + React for their framework. Managed all aspects of SEO and managed 3rd party vendors during my day to day. Implemented a local SEO strategy for each of the 90+ office locations across the USA and saw an increase of 450% in organic impressions over the first 8 months. 
+- **Overview:**  
+  A cryptocurrency-focused website listing “penny cryptocurrencies” (coins under \$1 USD).
 
-[FindRentals.com](https://FindRentals.com) - When working at Blizzard Internet Marketing I was approached by the owner of Find Rentals to audit the site (4+million pages) and determine the technical issues causing low rankings and loss of traffic. Determined the site needed a total recategorization of their listing types and needed to prune 700k dead listing pages causing the server to slow down. Also determined and provided a list of 301 redirects for broken links internally and externally and created the .htaccess file for the owner. The site rebounded substantially and recovered around 600k visitors after the first 12 months or so.
+- **Key Achievements:**  
+  - Built on WordPress with a custom PHP plugin to feature trending coins and related exchange data.  
+  - Integrated APIs to display coin volume trends, plus guides on purchasing.  
+  - Peaked in 2017–2018 with ~150k monthly unique visitors from organic search.  
+  - Monetized with advertiser fees for featured listings.  
+  - Sold to an investment company in 2019.
 
-[McCartneyProperties.com](https://McCartneyProperties.com) - Worked as the lead SEO for a luxury vacation rental company in the competitive market of Aspen, Colorado. At the time, the website was brand new, built using a custom reservation engine using Wordpress. Created a strategy that used a mix of local business citations, structured data markup, YouTube Video optimizations, and local classifieds & newspaper listings to rank the site in the top 20 within the first 6 months of being live.
+---
 
-[VisitFloridaBeaches.com](https://visitfloridabeaches.com) - Managed the SEO optimizations for one of the largest privately owned vacation rental management companies in Florida. Created a strategy featuring link building, on-page optimizations, Google Tag Manager tracking, and Schema implementation for the site and properties. Focused on decreasing loading times to ensure pages are compliant with Google's page speed guidelines and mobile optimizations. In the first 12 months was able to increase the organic traffic to the site by 1200%.
+### [AirplaneListings.com](https://airplanelistings.com)
 
-[VisitGlenwood.com](https://visitglenwood.com) - Worked with the city of Glenwood Springs, Colorado to optimize their tourism based drupal website for organic search. Determined the ideal URL structure and site architecture based off the available information provided. Determined structured data that was leveraged for the event calendar and generated featured snippets in Google search. Worked with their internal dev team to improve page loading speeds as well as mobile issues caused by the drupal framework.
+- **Overview:**  
+  Purchased this expired domain (with existing backlinks) in 2017 and turned it into a Progressive Web App (PWA) listing aircraft for sale.
 
-[HotSpringsPool.com](https://hotspringspool.com) - Worked with the team at the Glenwood Hot Springs pool during their website redesign to ensure the new site was properly optimized for SEO.  Determined the ideal URL structure and site architecture and provided the 301s needed to ensure traffic was not lost during the upgrade to the new website. Worked with the developers of the site to implement an aggressive image compression workflow to minimize page loading times and reduce the resources used on their web server.
+- **Key Achievements:**  
+  - Developed using the Ionic framework.  
+  - Leveraged existing domain authority and redirected old links to relevant new content.  
+  - Rapidly ranked in organic search.  
+  - Sold to an interested buyer within six months and assisted them with further SEO strategy.
 
-[Stake.com](https://Stake.com) - Worked directly with the founder of Stake as a consultant for the largest cryptocurrency based casino online to help set up their Google Search Console, Google Analytics, and provide an overall audit with suggestions for fixes. Determined issues and created a high level SEO strategy as well as worked with their dev team to fix a javascript rendering issue causing crawling and indexing issues for the site. Currently the site organically generates around 20million visitors a month.
+---
 
-[NewYorkHelicopter.com](https://newyorkhelicopter.com) - Worked directly with the owner to update their wordpress site to a new theme and integrate a custom booking solution using Checkfront and Authorize.net. After the new site was created, determined a local SEO strategy that targeted a super specific geographic area in Downtown NYC to generate walk-in customers. Also created a section on the site that offered private charters from NYC to the Hamptons and Cape Cod. Site generated $2.25 million in online transaction in the first 16 months of the new site being live.
+### [NoiseCuts.com](https://noisecuts.com)
 
-[VacationCompany.com](https://vacationcompany.com) - Worked with a luxury vacation rental company in Hilton Head, SC to optimize their updated website and new booking engine. Used a large budget to build business citations on a monthly basis as well as optimized the Google Business Listing to generate authority in their market. Leveraged review Schema markup that featured reviews and pricing directly in search results, which increased the CTR for the site overall by 7%. 
+- **Overview:**  
+  A digital marketplace connecting buyers and sellers of audio, beats, vocals, and various music/video production services.
 
-[Modnet.io] (https://modnet.io/) - Worked as a SEO consultant on a React based web app that is a Modeling talent platform based out of NYC.
+- **Key Achievements:**  
+  - Built on WordPress with a premium vendor marketplace plugin.  
+  - Offered free storefronts with optional paid features (e.g., homepage placement).  
+  - Generated ~25k monthly visitors and ~7,500 registered users at the time of sale.  
+  - Revenue from listing upgrades and featured placements.
 
+---
+
+### [RobinhoodPennies.com](https://robinhoodpennies.com)
+
+- **Overview:**  
+  A companion website to the /r/robinhoodpennystocks subreddit (founded in 2017), focusing on penny stocks tradable on the Robinhood app.
+
+- **Key Achievements:**  
+  - Listed popular stocks from the subreddit and created guides on using Robinhood.  
+  - Attracted ~65k+ unique organic visitors within the first year.  
+  - The associated subreddit grew to over 600k subscribers in the same period.  
+  - Sold to a large investor for a substantial profit.
+
+---
+
+### RoaringForkLocal.com
+
+- **Overview:**  
+  A local directory for the Roaring Fork Valley in Colorado, featuring real estate, classifieds, business listings, and local news.
+
+- **Key Achievements:**  
+  - Populated with multiple API sources.  
+  - Employed a local SEO strategy for regional visibility.  
+  - Sold to a local internet marketing agency in 2018.
+
+---
+
+## Past "Professional" SEO Projects
+
+Below are highlights of my professional SEO experience, including in-house roles, agency collaborations, and consulting engagements.
+
+---
+
+### [Offerpad.com](https://offerpad.com)
+
+- **Role:** In-house SEO Manager (under the VP of Marketing).  
+- **Scope:**  
+  - Oversaw SEO for a 850k+ page site built on Sitecore + React.  
+  - Managed third-party vendors and coordinated technical SEO optimizations.  
+- **Strategy & Results:**  
+  - Implemented local SEO for 90+ U.S. office locations.  
+  - Achieved a 450% increase in organic impressions within 8 months.
+
+---
+
+### [FindRentals.com](https://findrentals.com)
+
+- **Role:** SEO Auditor & Strategist (while at Blizzard Internet Marketing).  
+- **Scope:**  
+  - Analyzed a site with over 4 million pages.  
+  - Diagnosed technical issues causing low rankings and traffic losses.  
+- **Strategy & Results:**  
+  - Recommended a full re-categorization of listings and pruning of ~700k dead pages.  
+  - Developed a .htaccess file for 301 redirects and fixed broken internal/external links.  
+  - Recovered ~600k visitors after ~12 months.
+
+---
+
+### [McCartneyProperties.com](https://mccartneyproperties.com)
+
+- **Role:** Lead SEO for a luxury vacation rental company in Aspen, CO.  
+- **Scope & Strategy:**  
+  - Newly launched WordPress site with a custom reservation engine.  
+  - Focused on local business citations, structured data markup, YouTube optimization, and local classifieds/newspaper listings.  
+- **Results:**  
+  - Secured top 20 positions in SERPs within 6 months.
+
+---
+
+### [VisitFloridaBeaches.com](https://visitfloridabeaches.com)
+
+- **Role:** SEO Manager for one of the largest privately owned vacation rental groups in Florida.  
+- **Scope & Strategy:**  
+  - Executed link building, on-page optimizations, Schema implementations, and Google Tag Manager tracking.  
+  - Optimized site performance (page speed, mobile compliance).  
+- **Results:**  
+  - Drove a 1200% increase in organic traffic over 12 months.
+
+---
+
+### [VisitGlenwood.com](https://visitglenwood.com)
+
+- **Role:** SEO Consultant for the City of Glenwood Springs, CO.  
+- **Scope & Strategy:**  
+  - Drupal-based tourism website.  
+  - Optimized URL structure, site architecture, and structured data for event calendars.  
+  - Worked with internal devs on page speed and mobile performance.  
+- **Results:**  
+  - Achieved featured snippets and improved organic visibility.
+
+---
+
+### [HotSpringsPool.com](https://hotspringspool.com)
+
+- **Role:** SEO Consultant during a website redesign.  
+- **Scope & Strategy:**  
+  - Planned URL structure, site architecture, and 301 redirects to preserve traffic after the relaunch.  
+  - Implemented aggressive image compression to improve load times and server efficiency.  
+- **Results:**  
+  - Seamless transition to new site with minimal traffic loss and improved performance.
+
+---
+
+### [Stake.com](https://stake.com)
+
+- **Role:** SEO Consultant for the world’s largest crypto casino.  
+- **Scope & Strategy:**  
+  - Set up Google Search Console & Google Analytics.  
+  - Conducted a comprehensive audit and recommended fixes for JavaScript rendering issues.  
+- **Results:**  
+  - Resolved indexing and crawling problems.  
+  - Stake.com now generates ~20 million monthly organic visitors.
+
+---
+
+### [NewYorkHelicopter.com](https://newyorkhelicopter.com)
+
+- **Role:** Web/SEO Consultant for a helicopter tour and charter company.  
+- **Scope & Strategy:**  
+  - Migrated the site to a new WordPress theme and integrated Checkfront + Authorize.net for bookings.  
+  - Developed a hyper-local SEO approach targeting Downtown NYC foot traffic.  
+  - Added private charter options to the Hamptons and Cape Cod.  
+- **Results:**  
+  - Facilitated \$2.25 million in online transactions in the first 16 months post-relaunch.
+
+---
+
+### [VacationCompany.com](https://vacationcompany.com)
+
+- **Role:** SEO Strategist for a luxury vacation rental company in Hilton Head, SC.  
+- **Scope & Strategy:**  
+  - Allocated a large budget for monthly citation building.  
+  - Optimized Google Business Listings for local authority.  
+  - Implemented review Schema to show ratings and pricing in SERPs, boosting CTR.  
+- **Results:**  
+  - Achieved a +7% overall CTR improvement and substantial visibility gains.
+
+---
+
+### [Modnet.io](https://modnet.io/)
+
+- **Role:** SEO Consultant  
+- **Scope & Strategy:**  
+  - Advised on a React-based web app for a NYC modeling talent platform.  
+  - Provided recommendations for overall site architecture, SEO best practices, and integration with Google tools.
+
+---
+
+## Contact
+
+If you have questions about these projects or would like to discuss potential collaborations, feel free to [get in touch](mailto:email@example.com).
+
+---
