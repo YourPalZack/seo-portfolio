@@ -1,4 +1,9 @@
-# Portfolio of SEO Projects
+# About Zack
+
+I’m Zack Hayes, an SEO specialist with 12+ years of experience and multiple Google certifications. I excel in detailed SEO audits, technical optimizations, and strategic planning that drive measurable organic growth across diverse industries. As a proactive problem solver, I’ve personally built, ranked, and sold successful websites using SEO. My expertise bridges deep technical knowledge and broader digital marketing tactics, ensuring tailored, high-impact solutions that fuel long-term business success. Let’s connect and take your online presence to the next level.
+
+
+## Portfolio of SEO Projects
 
 Below is an overview of various projects I’ve worked on, divided into two main categories:
 
