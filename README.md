@@ -1,4 +1,4 @@
-# Zack Hayes - SEO Specialist
+# Zack Hayes - 14+ Years Of Full Stack SE0, Website Optimizations, & Paid Advertising
 
 ## Professional Summary
 I'm Zack Hayes, an SEO specialist with 12+ years of experience and multiple Google certifications. I excel in detailed SEO audits, technical optimizations, and strategic planning that drive measurable organic growth across diverse industries. As a proactive problem solver, I've personally built, ranked, and sold successful websites using SEO. My expertise bridges deep technical knowledge and broader digital marketing tactics, ensuring tailored, high-impact solutions that fuel long-term business success.
@@ -192,6 +192,21 @@ A local directory for the Roaring Fork Valley in Colorado, featuring real estate
 **Scope & Strategy:**  
 - Advised on a React-based web app for a NYC modeling talent platform
 - Provided recommendations for overall site architecture, SEO best practices, and integration with Google tools
+
+### [SmartSkillAI.com ](https://SmartSkillAI.Com)
+**Role:** Full Stack Web Developer & Founder
+
+**Scope & Strategy:**  
+- Created an AI based website featuring custom development and custom plugins.
+- Generated and created a job listing section targeted for SEO.
+- Generated A Company Database Using Custom Plugins Optimized For SEO
+- Generated an AI based backlink strategy.
+
+**Results:**  
+- 7500+ visitors in first month
+- Increase of LLM based traffic
+
+
 
 ---
 
