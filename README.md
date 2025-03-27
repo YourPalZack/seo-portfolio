@@ -193,7 +193,7 @@ A local directory for the Roaring Fork Valley in Colorado, featuring real estate
 - Advised on a React-based web app for a NYC modeling talent platform
 - Provided recommendations for overall site architecture, SEO best practices, and integration with Google tools
 
-### [SmartSkillAI.com ](https://SmartSkillAI.Com)
+### [SkillSmartAI.com ](https://SkillSmartAI.Com)
 **Role:** Full Stack Web Developer & Founder
 
 **Scope & Strategy:**  
