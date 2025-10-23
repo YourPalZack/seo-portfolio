@@ -1,262 +1,127 @@
-# Zack Hayes - 14+ Years Of Full Stack SE0, Website Optimizations, & Paid Advertising
+# Zack Hayes — Full-Stack SEO & AI Search Optimization Expert  
+**14+ Years of Technical SEO, GEO (Generative Engine Optimization), and AI-Driven Website Strategy**
 
-## Professional Summary
-I'm Zack Hayes, an SEO specialist with 12+ years of experience and multiple Google certifications. I excel in detailed SEO audits, technical optimizations, and strategic planning that drive measurable organic growth across diverse industries. As a proactive problem solver, I've personally built, ranked, and sold successful websites using SEO. My expertise bridges deep technical knowledge and broader digital marketing tactics, ensuring tailored, high-impact solutions that fuel long-term business success.
-
----
-
-## Portfolio of SEO Projects
-
-My work spans two main categories:
-1. **Sites I Personally Built, Ranked & Sold**  
-2. **Past "Professional" SEO Projects**
+📍 Rifle, Colorado  
+📧 [yourpalzack@gmail.com](mailto:yourpalzack@gmail.com) | 🌐 [YourPalZack.com](https://yourpalzack.com) | 💼 [LinkedIn](https://linkedin.com/in/yourpalzack)
 
 ---
 
-## Sites I Personally Built, Ranked & Sold
+## Tool Stack & Certifications  
 
-### [AllCydia.com](https://allcydia.com)
-**Overview:**  
-My first successful SEO-driven website, aimed at helping users jailbreak their iOS devices. Provided step-by-step guides and reviewed apps from the Cydia App Store.
-
-**Key Achievements:**  
-- Built on WordPress
-- Ranked for high-volume keywords
-- Peaked at ~300,000 monthly unique visitors from organic search
-- Sold to a third party in 2014 for a six-figure amount
-
-### [Incredijet.com](https://incredijet.com)
-**Overview:**  
-A lead generation website specializing in private jet charter quotes worldwide.
-
-**Key Achievements:**  
-- Focused on local SEO and structured data to rank for airport- and city-specific search terms
-- Partnered with a charter jet broker for quotes and earned commissions on booked flights
-- Generated ~40,000 visitors per month at peak and 15–20 leads per week
-- Eventually sold to the partner broker, who redirected the domain to their primary site
-
-### [Coinformant.com](https://coinformant.com)
-**Overview:**  
-A cryptocurrency-focused website listing "penny cryptocurrencies" (coins under $1 USD).
-
-**Key Achievements:**  
-- Built on WordPress with a custom PHP plugin to feature trending coins and related exchange data
-- Integrated APIs to display coin volume trends, plus guides on purchasing
-- Peaked in 2017–2018 with ~150,000 monthly unique visitors from organic search
-- Monetized with advertiser fees for featured listings
-- Sold to an investment company in 2019
-
-### [AirplaneListings.com](https://airplanelistings.com)
-**Overview:**  
-Purchased this expired domain (with existing backlinks) in 2017 and turned it into a Progressive Web App (PWA) listing aircraft for sale.
-
-**Key Achievements:**  
-- Developed using the Ionic framework
-- Leveraged existing domain authority and redirected old links to relevant new content
-- Rapidly ranked in organic search
-- Sold to an interested buyer within six months and assisted them with further SEO strategy
-
-### [NoiseCuts.com](https://noisecuts.com)
-**Overview:**  
-A digital marketplace connecting buyers and sellers of audio, beats, vocals, and various music/video production services.
-
-**Key Achievements:**  
-- Built on WordPress with a premium vendor marketplace plugin
-- Offered free storefronts with optional paid features (e.g., homepage placement)
-- Generated ~25,000 monthly visitors and ~7,500 registered users at the time of sale
-- Revenue from listing upgrades and featured placements
-
-### [RobinhoodPennies.com](https://robinhoodpennies.com)
-**Overview:**  
-A companion website to the /r/robinhoodpennystocks subreddit (founded in 2017), focusing on penny stocks tradable on the Robinhood app.
-
-**Key Achievements:**  
-- Listed popular stocks from the subreddit and created guides on using Robinhood
-- Attracted ~65,000+ unique organic visitors within the first year
-- The associated subreddit grew to over 600,000 subscribers in the same period
-- Sold to a large investor for a substantial profit
-
-### RoaringForkLocal.com
-**Overview:**  
-A local directory for the Roaring Fork Valley in Colorado, featuring real estate, classifieds, business listings, and local news.
-
-**Key Achievements:**  
-- Populated with multiple API sources
-- Employed a local SEO strategy for regional visibility
-- Sold to a local internet marketing agency in 2018
+### SEO & Analytics Tools  
+[![GA4 Certified](https://img.shields.io/badge/Google%20Analytics%204-Certified-E37400?logo=google-analytics&logoColor=white)](https://marketingplatform.google.com/about/analytics/)
+[![Google Ads](https://img.shields.io/badge/Google%20Ads-Certified-0A66C2?logo=googleads&logoColor=white)](https://ads.google.com)
+[![Search Console](https://img.shields.io/badge/Google%20Search%20Console-Expert-34A853?logo=google&logoColor=white)](https://search.google.com/search-console)
+[![GTM Certified](https://img.shields.io/badge/Google%20Tag%20Manager-Certified-458CF5?logo=google-tag-manager&logoColor=white)](https://tagmanager.google.com/)
+[![SEMrush](https://img.shields.io/badge/SEMrush-Pro-FF642D?logo=semrush&logoColor=white)](https://semrush.com)
+[![Ahrefs](https://img.shields.io/badge/Ahrefs-Advanced-0E61A1?logo=ahrefs&logoColor=white)](https://ahrefs.com)
+[![Screaming Frog](https://img.shields.io/badge/Screaming%20Frog-Technical%20SEO-1DBF73?logo=frog&logoColor=white)](https://www.screamingfrog.co.uk/seo-spider/)
+[![Surfer SEO](https://img.shields.io/badge/Surfer%20SEO-Content%20Optimization-FC466B?logo=surfer&logoColor=white)](https://surferseo.com)
+[![Frase.io](https://img.shields.io/badge/Frase.io-Content%20AI-009688)](https://www.frase.io)
+[![Clearscope](https://img.shields.io/badge/Clearscope-SEO%20Content-0091FF)](https://clearscope.io)
 
 ---
 
-## Past "Professional" SEO Projects
-
-### [Offerpad.com](https://offerpad.com)
-**Role:** In-house SEO Manager (under the VP of Marketing)
-
-**Scope:**  
-- Oversaw SEO for a 850,000+ page site built on Sitecore + React
-- Managed third-party vendors and coordinated technical SEO optimizations
-
-**Strategy & Results:**  
-- Implemented local SEO for 90+ U.S. office locations
-- Achieved a 450% increase in organic impressions within 8 months
-
-### [FindRentals.com](https://findrentals.com)
-**Role:** SEO Auditor & Strategist (while at Blizzard Internet Marketing)
-
-**Scope:**  
-- Analyzed a site with over 4 million pages
-- Diagnosed technical issues causing low rankings and traffic losses
-
-**Strategy & Results:**  
-- Recommended a full re-categorization of listings and pruning of ~700,000 dead pages
-- Developed a .htaccess file for 301 redirects and fixed broken internal/external links
-- Recovered ~600,000 visitors after ~12 months
-
-### [McCartneyProperties.com](https://mccartneyproperties.com)
-**Role:** Lead SEO for a luxury vacation rental company in Aspen, CO
-
-**Scope & Strategy:**  
-- Newly launched WordPress site with a custom reservation engine
-- Focused on local business citations, structured data markup, YouTube optimization, and local classifieds/newspaper listings
-
-**Results:**  
-- Secured top 20 positions in SERPs within 6 months
-
-### [VisitFloridaBeaches.com](https://visitfloridabeaches.com)
-**Role:** SEO Manager for one of the largest privately owned vacation rental groups in Florida
-
-**Scope & Strategy:**  
-- Executed link building, on-page optimizations, Schema implementations, and Google Tag Manager tracking
-- Optimized site performance (page speed, mobile compliance)
-
-**Results:**  
-- Drove a 1200% increase in organic traffic over 12 months
-
-### [VisitGlenwood.com](https://visitglenwood.com)
-**Role:** SEO Consultant for the City of Glenwood Springs, CO
-
-**Scope & Strategy:**  
-- Drupal-based tourism website
-- Optimized URL structure, site architecture, and structured data for event calendars
-- Worked with internal devs on page speed and mobile performance
-
-**Results:**  
-- Achieved featured snippets and improved organic visibility
-
-### [HotSpringsPool.com](https://hotspringspool.com)
-**Role:** SEO Consultant during a website redesign
-
-**Scope & Strategy:**  
-- Planned URL structure, site architecture, and 301 redirects to preserve traffic after the relaunch
-- Implemented aggressive image compression to improve load times and server efficiency
-
-**Results:**  
-- Seamless transition to new site with minimal traffic loss and improved performance
-
-### [Stake.com](https://stake.com)
-**Role:** SEO Consultant for the world's largest crypto casino
-
-**Scope & Strategy:**  
-- Set up Google Search Console & Google Analytics
-- Conducted a comprehensive audit and recommended fixes for JavaScript rendering issues
-
-**Results:**  
-- Resolved indexing and crawling problems
-- Stake.com now generates ~20 million monthly organic visitors
-
-### [NewYorkHelicopter.com](https://newyorkhelicopter.com)
-**Role:** Web/SEO Consultant for a helicopter tour and charter company
-
-**Scope & Strategy:**  
-- Migrated the site to a new WordPress theme and integrated Checkfront + Authorize.net for bookings
-- Developed a hyper-local SEO approach targeting Downtown NYC foot traffic
-- Added private charter options to the Hamptons and Cape Cod
-
-**Results:**  
-- Facilitated $2.25 million in online transactions in the first 16 months post-relaunch
-
-### [VacationCompany.com](https://vacationcompany.com)
-**Role:** SEO Strategist for a luxury vacation rental company in Hilton Head, SC
-
-**Scope & Strategy:**  
-- Allocated a large budget for monthly citation building
-- Optimized Google Business Listings for local authority
-- Implemented review Schema to show ratings and pricing in SERPs, boosting CTR
-
-**Results:**  
-- Achieved a +7% overall CTR improvement and substantial visibility gains
-
-### [Modnet.io](https://modnet.io/)
-**Role:** SEO Consultant
-
-**Scope & Strategy:**  
-- Advised on a React-based web app for a NYC modeling talent platform
-- Provided recommendations for overall site architecture, SEO best practices, and integration with Google tools
-
-### [SkillSmartAI.com ](https://SkillSmartAI.Com)
-**Role:** Full Stack Web Developer & Founder
-
-**Scope & Strategy:**  
-- Created an AI based website featuring custom development and custom plugins.
-- Generated and created a job listing section targeted for SEO.
-- Generated A Company Database Using Custom Plugins Optimized For SEO
-- Generated an AI based backlink strategy.
-
-**Results:**  
-- 7500+ visitors in first month
-- Increase of LLM based traffic
-
-
+### AI & Automation Tools  
+[![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai&logoColor=white)](https://openai.com)
+[![Claude](https://img.shields.io/badge/Anthropic-Claude-FFD43B?logoColor=black)](https://www.anthropic.com)
+[![Perplexity](https://img.shields.io/badge/Perplexity-AI%20Search-0052CC?logoColor=white)](https://perplexity.ai)
+[![Zapier](https://img.shields.io/badge/Zapier-Automation-FF4A00?logo=zapier&logoColor=white)](https://zapier.com)
+[![Make.com](https://img.shields.io/badge/Make.com-Automation-7209B7?logo=make&logoColor=white)](https://www.make.com)
+[![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-F16B43?logo=n8n&logoColor=white)](https://n8n.io)
+[![Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-Dashboards-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com)
 
 ---
 
-## Notable SEO & Website Optimization Skills
-
-### Technical Expertise
-- **SEO Audits & Technical SEO**: Conducting thorough SEO audits to identify issues like broken links, slow page loads, or missing meta tags. Optimizing website architecture for both search engines and user experience to improve rankings and site visibility.
-
-- **Keyword & Competitor Research**: Identifying the most relevant search terms with high traffic potential and low competition. Evaluating competitor strategies to guide content creation that outperforms market standards.
-
-- **On-Page & Off-Page SEO**: Optimizing on-site elements like meta tags, header tags, and internal linking. Building off-site factors including backlinks and social media presence to enhance domain authority and ranking.
-
-- **Local SEO Optimization**: Improving visibility in local search results through Google My Business optimization and local citation building. Driving relevant, high-conversion traffic for businesses targeting specific geographic areas.
-
-- **Google Analytics & Tag Manager**: Tracking and analyzing website traffic and user behavior to improve performance. Simplifying management of tracking codes without direct code modification.
-
-### AI & Automation Expertise
-- **AI-Driven SEO Strategies**: Leveraging machine learning algorithms to analyze data patterns, predict trends, and optimize content for better search rankings.
-
-- **LLM Search & Generative AI for SEO**: Using AI models to generate relevant content that aligns with search intent, creating high-quality, engaging materials that rank well.
-
-- **AI Agent SEO & Workflow Automations**: Automating tasks like content optimization and site auditing through AI-powered tools, improving efficiency in reporting, keyword tracking, and content updates.
-
-- **Search Generative Experience (SGE)**: Optimizing content for Google's AI-driven search results to boost visibility in the evolving search landscape.
-
-- **Custom AI Integrations for Business**: Integrating AI solutions into business workflows for customized content creation, marketing automation, and enhanced customer engagement.
-
-### Development & Strategy Skills
-- **Full Stack SEO**: Optimizing all layers of a website's structure from front-end design to back-end database, enhancing crawlability, indexing, and search ranking.
-
-- **SaaS SEO**: Optimizing subscription-based software platforms by targeting high-intent search queries to attract organic traffic that converts to long-term customers.
-
-- **B2B SEO**: Optimizing content and lead-generation strategies for business-to-business companies, focusing on niche keywords and conversion funnels.
-
-- **E-commerce SEO**: Optimizing product and category pages to rank well for relevant search queries, driving targeted traffic that converts into sales.
-
-- **Google AI Overview Optimization**: Aligning content with Google's AI-driven search algorithms that prioritize high-quality, authoritative content.
-
-- **CRO (Conversion Rate Optimization)**: Improving user experience and site functionality through A/B testing and behavior analysis to increase conversion rates.
-
-- **SEO Strategy**: Integrating keyword research, on-page optimization, content marketing, and technical SEO for consistent, long-term growth in search visibility.
-
-- **Programmatic SEO**: Automating content creation and optimization at scale through structured data and algorithms for efficient optimization of thousands of pages.
-
-- **Full Stack Web Development**: Ensuring seamless integration of front-end and back-end components to optimize SEO performance, including site speed improvements and API development.
-
-- **Automation Tools**: Using n8n, Make, and Zapier to streamline SEO tasks such as reporting, content publishing, and data analysis.
+### Development & Deployment Stack  
+[![WordPress](https://img.shields.io/badge/WordPress-Developer-21759B?logo=wordpress&logoColor=white)](https://wordpress.org)
+[![Webflow](https://img.shields.io/badge/Webflow-Designer-4353FF?logo=webflow&logoColor=white)](https://webflow.com)
+[![Next.js](https://img.shields.io/badge/Next.js-Full%20Stack-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Vercel](https://img.shields.io/badge/Vercel-Hosting-000000?logo=vercel&logoColor=white)](https://vercel.com)
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)](https://python.org)
+[![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Front%20End-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
-## Contact
+## Professional Summary  
 
-If you have questions about these projects or would like to discuss potential collaborations, feel free to [get in touch](mailto:yourpalzack@gmail.com).
+I’m **Zack Hayes**, a Senior SEO Director and full-stack search architect with over **14 years of experience** driving measurable organic growth for SaaS, fintech, and enterprise-scale platforms.
+
+My focus combines **technical SEO**, **AI optimization**, and **programmatic automation** to deliver scalable frameworks that rank fast, convert better, and adapt to next-generation AI search systems like **ChatGPT, Gemini, and SearchGPT**.
+
+---
+
+## Portfolio Highlights  
+
+### Categories  
+1. **Websites I Built, Ranked & Sold**  
+2. **Professional SEO Projects for Enterprise Clients**
+
+---
+
+### Personally Built, Ranked & Sold  
+
+- **[AllCydia.com](https://allcydia.com)** – WordPress jailbreak guide site; ~300K monthly organic visitors; sold for six figures (2014).  
+- **[Incredijet.com](https://incredijet.com)** – Private jet charter lead generation site; 40K monthly visits; sold to broker partner.  
+- **[Coinformant.com](https://coinformant.com)** – Crypto-info directory; peaked at 150K+ visitors; sold in 2019.  
+- **[AirplaneListings.com](https://airplanelistings.com)** – Aircraft sales PWA; flipped in six months.  
+- **[NoiseCuts.com](https://noisecuts.com)** – Marketplace for beats/vocals; 25K monthly visitors; sold with revenue.  
+- **[RobinhoodPennies.com](https://robinhoodpennies.com)** – Companion to /r/robinhoodpennystocks; 65K+ visitors in year one.  
+- **RoaringForkLocal.com** – Local Colorado directory; sold to agency (2018).
+
+---
+
+### Professional SEO Projects  
+
+- **[Offerpad.com](https://offerpad.com)** – Managed 850K+ pages, implemented local SEO across 90 markets, +450% organic impressions.  
+- **[Groundfloor.com / Groundfloor.us](https://groundfloor.com)** – Led GEO + AI search visibility; 30–40% customer acquisition via organic.  
+- **[FindRentals.com](https://findrentals.com)** – Pruned 700K dead URLs, rebuilt structure; recovered 600K monthly visitors.  
+- **[Stake.com](https://stake.com)** – Resolved JS rendering/indexing; now 20M+ monthly organic visits.  
+- **[Modnet.io](https://modnet.io)** – Advised React-based SEO architecture; +300% indexation increase.  
+- **[SkillSmartAI.com](https://SkillSmartAI.com)** – Built AI-driven SEO job board; 7.5K+ visitors in first month.
+
+---
+
+## Technical Stack Overview  
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **SEO Platforms** | Google Search Console, GA4, Tag Manager, SEMrush, Ahrefs, Screaming Frog |
+| **AI & Automation** | GPT-4, Claude, Perplexity, Zapier, n8n, Make.com |
+| **Development** | HTML, CSS, JS, Node.js, Python, React, Next.js, WordPress, Webflow |
+| **Performance** | Core Web Vitals, CDN, lazy loading, server optimization |
+| **Analytics** | Looker Studio, GTM events, conversion dashboards |
+
+---
+
+## Certifications  
+
+- Google Analytics Certified  
+- Google Ads Certified  
+- Google Tag Manager Certified  
+- Google Search Console Certified  
+- Google Digital Garage — Advanced SEO & Analytics  
+
+---
+
+## Thought Leadership  
+
+- Author of guides on **AI SEO**, **GEO**, and **AI Overview Optimization**.  
+- Contributor to SEO communities on **LLM search visibility** and **SGE optimization**.  
+- Expert in **E-E-A-T**, **semantic SEO**, and **AI-answer engine optimization**.  
+
+---
+
+## Contact  
+
+If you’re exploring **SEO consulting, AI search optimization, or large-scale technical audits**, let’s connect:  
+📧 [yourpalzack@gmail.com](mailto:yourpalzack@gmail.com)  
+🌐 [YourPalZack.com](https://yourpalzack.com)
+
+---
+
+**GitHub SEO Portfolio by Zack Hayes**  
+Pioneer in **Full-Stack SEO, Generative Engine Optimization (GEO), and AI-Search Visibility**
